@@ -2,7 +2,6 @@ package com.bdo.Apache;
 
 import java.awt.BorderLayout;
 
-
 import java.awt.FlowLayout;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
@@ -466,7 +465,7 @@ public class ReadGUI extends JFrame {
 //	    	    }
 	    	  //new//
 	    
-	    /*
+	    
 	    	public static void sendMail(String from, String cc, String to, String filePath, String name) {
 //	    	  
 //	          // SMTP server address
@@ -664,7 +663,7 @@ public class ReadGUI extends JFrame {
 	    	}
 	    	
 	    	
-	    	*/
+	    	
 	    	private static void copyRow(Row sourceRow, Sheet targetSheet, int rowNum) {
 	            // Create a new row in the target sheet
 	    		//sourceRow.setZeroHeight(false);
